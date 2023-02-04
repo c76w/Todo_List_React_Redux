@@ -9,7 +9,7 @@ export const todoSlice = createSlice({
         data: 
             {
                 1: {
-                    content: 'Content 1',
+                    content: 'Initial Todo',
                     completed: false
                 },
             },
