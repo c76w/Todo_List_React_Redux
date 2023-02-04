@@ -5,7 +5,7 @@ This project was to create a Todo list using React and sRedux to manage the stat
 
 Allow a Todo to be added, updated, deleted and also to allow the Todo to be marked as complete.
 
-Styling was done with the use of Bootstraop and Bootstrap icons.
+Styling was done with the use of Bootstrap and Bootstrap icons.
 
 ## Installation
 
