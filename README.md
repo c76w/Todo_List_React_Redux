@@ -1,5 +1,5 @@
 # Todo List - React & Redux
-Hangman Game created with React and Redux
+Todo List created with React and Redux
 
 This project was to create a Todo list using React and sRedux to manage the state.
 
